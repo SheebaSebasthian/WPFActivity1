@@ -1,0 +1,16 @@
+D:\Sheeba\WPFSamples\Activities\Activity1\BringBackPocoyo\BringBackPocoyo\bin\Debug\BringBackPocoyo.exe.config
+D:\Sheeba\WPFSamples\Activities\Activity1\BringBackPocoyo\BringBackPocoyo\bin\Debug\BringBackPocoyo.exe
+D:\Sheeba\WPFSamples\Activities\Activity1\BringBackPocoyo\BringBackPocoyo\bin\Debug\BringBackPocoyo.pdb
+D:\Sheeba\WPFSamples\Activities\Activity1\BringBackPocoyo\BringBackPocoyo\obj\Debug\ImageFit.g.cs
+D:\Sheeba\WPFSamples\Activities\Activity1\BringBackPocoyo\BringBackPocoyo\obj\Debug\MainWindow.g.cs
+D:\Sheeba\WPFSamples\Activities\Activity1\BringBackPocoyo\BringBackPocoyo\obj\Debug\App.g.cs
+D:\Sheeba\WPFSamples\Activities\Activity1\BringBackPocoyo\BringBackPocoyo\obj\Debug\BringBackPocoyo_MarkupCompile.cache
+D:\Sheeba\WPFSamples\Activities\Activity1\BringBackPocoyo\BringBackPocoyo\obj\Debug\BringBackPocoyo_MarkupCompile.lref
+D:\Sheeba\WPFSamples\Activities\Activity1\BringBackPocoyo\BringBackPocoyo\obj\Debug\ImageFit.baml
+D:\Sheeba\WPFSamples\Activities\Activity1\BringBackPocoyo\BringBackPocoyo\obj\Debug\MainWindow.baml
+D:\Sheeba\WPFSamples\Activities\Activity1\BringBackPocoyo\BringBackPocoyo\obj\Debug\BringBackPocoyo.g.resources
+D:\Sheeba\WPFSamples\Activities\Activity1\BringBackPocoyo\BringBackPocoyo\obj\Debug\BringBackPocoyo.Properties.Resources.resources
+D:\Sheeba\WPFSamples\Activities\Activity1\BringBackPocoyo\BringBackPocoyo\obj\Debug\BringBackPocoyo.csproj.GenerateResource.cache
+D:\Sheeba\WPFSamples\Activities\Activity1\BringBackPocoyo\BringBackPocoyo\obj\Debug\BringBackPocoyo.csproj.CoreCompileInputs.cache
+D:\Sheeba\WPFSamples\Activities\Activity1\BringBackPocoyo\BringBackPocoyo\obj\Debug\BringBackPocoyo.exe
+D:\Sheeba\WPFSamples\Activities\Activity1\BringBackPocoyo\BringBackPocoyo\obj\Debug\BringBackPocoyo.pdb
